@@ -1,6 +1,6 @@
 # House Price Prediction
 
-This project was finished in 2020 for the [Kaggle House Prediction Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). It was my first time using ensemble learning techniques to integrate GBDT such as XGBoost, LightGBM and CatBoost, which were the most popular models at that time. 
+This project was finished in early 2021 for the [Kaggle House Prediction Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). It was my first time using ensemble learning techniques to integrate GBDT such as XGBoost, LightGBM and CatBoost, which were the most popular models at that time. 
 
 In the end, it achieved a RMSE of 0.1172, which ranked top 3% in the competition.
 
